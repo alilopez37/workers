@@ -1,0 +1,22 @@
+:root {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 500;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    margin: 10px 0;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
